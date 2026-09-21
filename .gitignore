@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+som_analysis/
+som_extraction_results/
+*.zip
+*.png
+.DS_Store
